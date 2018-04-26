@@ -22,7 +22,7 @@ Heisann.no er en tjeneste for sikker mottak og sending av dokumenter.
 Med Heisann.no kommer du raskt igang med å sende og mottak dokumenter og beskjeder sikkert og trygt.
 
 ::: tip NB!
-Vi tillater p.t kun Norske bedrifter som er registrert i Brønnøysundregisteret å opprette konto. Stat, kommune og offentlige kan også opprette konto. 
+For å unngå misbruk av tjenesten verifiserer vi alle kontoer som blir opprettet. P.t er tjenesten kun tilgjengelig for bedrifter som er registrert i foretaksregisteret, samt for statlige, kommunale og offentlige virksomheter. 
 :::
 
 
