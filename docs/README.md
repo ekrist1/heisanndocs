@@ -1,7 +1,7 @@
 ---
 home: true
 sidebar: auto
-heroImage: ./stripe.png
+heroImage: ./heisannIcon.svg
 actionText: Kom igang →
 actionLink: /guide/
 features:
