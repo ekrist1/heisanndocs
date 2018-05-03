@@ -16,7 +16,9 @@ Bruk passord som består av tall, små og store bokstaver. Passordet bør minimu
 
 Før du kan ta i bruk mottaksskjemaet må du minimum ha oppretten en gruppe. En gruppe kan være en avdeling eller funksjon i bedriften. Du kan f. eks ha en gruppe for support, en for postmottak, en for lønn osv. 
 
-Når du skal sende en melding kan du i tillegg til å velge deg selv som avsender også velge en gruppe som avsender
+Når du skal sende en melding kan du i tillegg til å velge deg selv som avsender også velge en gruppe som avsender.
+
+Du velger hvilke brukere som skal ha tilgang til å se mottatte meldinger som er sendt til gruppene dine. Administrator (den som opprettet kontoen) har alltid tilgang til alle gruppene.
 
 
 
