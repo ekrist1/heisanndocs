@@ -1,8 +1,8 @@
 ---
 home: true
-sidebar: auto
+sidebarDepth: 2
 heroImage: ./heisannIcon.svg
-actionText: Kom igang →
+actionText: Brukerveiledning →
 actionLink: /guide/
 features:
 - title: Brukervennlighet i førersete

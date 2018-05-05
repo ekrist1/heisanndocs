@@ -5,25 +5,32 @@ module.exports = {
   	docsDir: 'docs',
     nav: [
       { text: 'Hjem', link: '/' },
+      { text: 'Blogg', link: '/blog/'},
       { text: 'Heisann.no', link: 'https://heisann.no' },
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Brukerveiledning')
-    }
-  }
-}
-
-function genSidebarConfig (title) {
-  return [
-    {
-      title,
-      collapsable: false,
-      children: [
+    sidebar: { 
+     '/guide/': [
+     {
+        title: 'Brukerveiledning',
+        collapsable: false,
+        children: [
         '',
         'settings',
         'uploadform',
-        'FAQ',
-         ]
+        'FAQ'
+        ]
+      }],
+      '/blog/': [
+     {
+        title: 'Blogg',
+        collapsable: false,
+        children: [
+        '',
+        'samtykke',
+        ]
+      }]
     }
-  ]
+  
+  
+  }
 }
